@@ -1,0 +1,56 @@
+/* Authors: Prakeerth Regunath and Seth Clover
+ISU Netid:
+pkregu22@iastate.edu
+ sclover@iastate.edu
+ Date: 12/11/2024  */
+.container {
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+
+  header h1 {
+    font-family: "Bitstream Vera Serif Bold", serif;
+    font-size: 2rem;
+  }
+  
+  section h2 {
+    font-family: "Bitstream Vera Serif Bold", serif;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Optional: Match your desired background color */
+  }
+  
+  header {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #navbarHeader {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #343a40; /* Matches the navbar */
+  }
+  
+  #navbarHeader .container-fluid {
+    padding: 0 !important;
+  }
+  
+  #navbarHeader .row {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  
+  
